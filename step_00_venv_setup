@@ -1,0 +1,7 @@
+ian ~/Documents/python3code/tdc $ pwd
+/home/ian/Documents/python3code/tdc 
+
+python3.6 -m venv venv
+
+source venv/bin/activate
+

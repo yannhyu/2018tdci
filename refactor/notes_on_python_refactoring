@@ -1,0 +1,23 @@
+github.com/bslatkin/pycon2016
+
+git clone https://github.com/bslatkin/pycon2016.git
+
+++++++++++++++++++++++++++++++++++++++
+
+To run the example code (must have Python3 installed):
+
+    Download this repo
+    Go into the repo directory on your local machine
+    pyvenv .
+    (python3.6 -m venv venv)
+    source bin/activate
+    pip3 install -r requirements.txt
+    jupyter notebook
+    Control-C to kill the notebook when you're done
+    deactivate to leave the Python environment
+
+
++++++++++++++++++++++++++++++++++++
+
+sudo yum install python3-devel
+sudo yum install libevent-devel
