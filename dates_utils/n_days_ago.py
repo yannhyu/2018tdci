@@ -14,3 +14,5 @@ dt_string_date = datetime.strptime(string_date, "%Y-%m-%d")
 dt_N_days_ago = dt_string_date - timedelta(days=N)
 print(dt_N_days_ago)
 print(dt_N_days_ago.strftime('%Y-%m-%d'))
+
+
